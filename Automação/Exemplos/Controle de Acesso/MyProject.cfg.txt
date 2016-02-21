@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MCU_DEVICE_FLAGS>
+  <DEVICE>
+    <DEVICE_NAME>P18LF45J50</DEVICE_NAME>
+    <VALUE>
+      <COUNT>8</COUNT>
+      <VALUE0>
+        <VAL>$007FF8:$00AE</VAL>
+      </VALUE0>
+      <VALUE1>
+        <VAL>$007FF9:$00F7</VAL>
+      </VALUE1>
+      <VALUE2>
+        <VAL>$007FFA:$00DC</VAL>
+      </VALUE2>
+      <VALUE3>
+        <VAL>$007FFB:$00FF</VAL>
+      </VALUE3>
+      <VALUE4>
+        <VAL>$007FFC:$00FF</VAL>
+      </VALUE4>
+      <VALUE5>
+        <VAL>$007FFD:$00F9</VAL>
+      </VALUE5>
+      <VALUE6>
+        <VAL>$007FFE:$00DF</VAL>
+      </VALUE6>
+      <VALUE7>
+        <VAL>$007FFF:$00F1</VAL>
+      </VALUE7>
+    </VALUE>
+  </DEVICE>
+</MCU_DEVICE_FLAGS>
